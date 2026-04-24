@@ -2,7 +2,7 @@
 
 ## Real-World and Interactive Visualizations  
 
-**Name:**  ANEY WAGHMARE
+**Name:**  AMEY WAGHMARE
 **PRN:** 25070123009  
 **Batch:** A1  
 
